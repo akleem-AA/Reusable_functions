@@ -1,4 +1,4 @@
-// Write a function named diagonal_of_square which takes side length of a square as parameter and returns the diagonal length of that square.
+// Write a function named diagonal_of_square which takes side length of a square as parameter and returns the diagonal length of that square. in javascript
 
 function diagonal_of_square(side){
     var value = Math.sqrt(2);
